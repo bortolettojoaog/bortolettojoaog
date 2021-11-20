@@ -1,5 +1,14 @@
-### Hi there 👋
-
+##Olá! Eu sou João Guilherme Bortoletto.
+<div>
+    <a href="https://github.com/bortolettojoaog">  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bortolettojoaog&show_icons=true&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bortolettojoaog&layout=compact&langs_count=1&theme=dracula" />
+</div>    
+  
+  
+  
+  
+  
 <!--
 **bortolettojoaog/bortolettojoaog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
