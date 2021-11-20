@@ -13,8 +13,12 @@
 ##
     
 <div>
-    <a href="https://www.instagram.com/bortoletto.joaog/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+    <a href="https://www.instagram.com/bortoletto.joaog/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
+    <a href="https://www.facebook.com/bortoletto.joaog" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /></a>
+    <a href="https://github.com/bortolettojoaog" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" /></a>
 </div>
+    
+![Snake animation](https://github.com/bortolettojoaog/bortolettojoaog/blob/output/git-hub-contribution-grid-snake.svg)
   
   
   
