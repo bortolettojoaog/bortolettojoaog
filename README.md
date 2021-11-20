@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working with web development.
 - 🌱 Seeking knowledge daily
-- 😄 He / His
+- 😄 He / Him
 
 ##
 
