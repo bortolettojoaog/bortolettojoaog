@@ -1,5 +1,5 @@
-## Hi, <h1>
-### My name is João Guilherme Bortoletto.
+# Hi, <h1>
+### My name is João Guilherme Bortoletto. <h3>
 
 > ✨ I’m interested in technology since I was 7 or 8 years old, when, out of curiosity, I started programming and searching about how modifications (mod) for electronic games were developed. I have been studying this subject since and, currently, I work with analysis and systems development.
 
