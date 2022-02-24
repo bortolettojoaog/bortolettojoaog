@@ -7,6 +7,15 @@
 
 ##
 
+<details>
+    <summary>Portuguese</summary>
+    
+    > ✨ Desde os 7/8 anos me descobri na tecnologia, principalmente no computador e internet. Comecei no mundo da programação desde essa época, quando por curiosidade, realizei diversas pesquisas para descobrir como era desenvolvido as modificações (Mod) em jogos eletrônicos. Desde então, continuei estudando e hoje atuo na área de análise e desenvolvimento de sistemas.
+
+- 🔭 Atualmente trabalho com desenvolvimento WEB.
+- 🌱 Buscando conhecimento diariamente.
+</details>
+
 ### My Stats: 
 
 <div>
