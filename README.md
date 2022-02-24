@@ -1,12 +1,14 @@
-*<details>
+<details>
     <summary>English</summary>
     
-    # Hi, My name is João Guilherme Bortoletto. 
+    <h1>Hi, My name is João Guilherme Bortoletto.</h1>
     
-    > ✨ I’m interested in technology since I was 7 or 8 years old, when, out of curiosity, I started programming and searching about how modifications (mod) for electronic games were developed. I have been studying this subject since and, currently, I work with analysis and systems development.
+    <p>✨ I’m interested in technology since I was 7 or 8 years old, when, out of curiosity, I started programming and searching about how modifications (mod) for electronic games were developed. I have been studying this subject since and, currently, I work with analysis and systems development.</p>
     
-    - 🔭 I’m currently working with web development.
-    - 🌱 Seeking knowledge daily
+    <ul>
+        <li>🔭 I’m currently working with web development.</li>
+        <li>🌱 Seeking knowledge daily</li>
+    </ul>
 </details>
 
 <details>
