@@ -6,7 +6,7 @@
 
 <br/>
 
-### Curiosities
+### Curiosities:
 
 - 🔭 I’m currently working with web development.
 - 🌱 Seeking knowledge daily
