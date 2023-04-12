@@ -17,8 +17,8 @@
 
 <div>
     <a href="https://github.com/bortolettojoaog">  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bortolettojoaog&layout=compact&langs_count=16&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bortolettojoaoga&show_icons=true&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bortolettojoaog&langs_count=16&theme=dark&layout=compact" />
 </div>    
     
 ### My Social Networks:
