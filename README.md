@@ -17,7 +17,7 @@
 
 <div>
     <a href="https://github.com/bortolettojoaog">  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bortolettojoaoga&show_icons=true&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bortolettojoaog&show_icons=true&theme=dark" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bortolettojoaog&langs_count=16&theme=dark&layout=compact" />
 </div>    
     
