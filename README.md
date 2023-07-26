@@ -1,4 +1,6 @@
-# 👋 Hi, My name is João Guilherme Bortoletto.
+# 👋 Hi,
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=288AB6&center=true&width=435&lines=My+name+is...;Jo%C3%A3o+Guilherme+Bortoletto)](https://git.io/typing-svg)
 
 <br/>
 
