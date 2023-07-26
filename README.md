@@ -1,6 +1,6 @@
 # 👋 Hi,
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hubot+Sans&weight=900&size=60&pause=1000&color=FFF&center=true&width=1000&height=100&lines=My+name+is...;Jo%C3%A3o+Guilherme+Bortoletto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hubot+Sans&weight=900&size=60&pause=1000&color=FFF&center=true&width=1000&height=50&lines=My+name+is...;Jo%C3%A3o+Guilherme+Bortoletto)](https://git.io/typing-svg)
 
 <br/>
 
