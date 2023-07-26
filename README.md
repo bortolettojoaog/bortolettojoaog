@@ -4,14 +4,16 @@
 
 <br/>
 
-> ✨ I’m interested in technology since I was 7 or 8 years old, when, out of curiosity, I started programming and searching about how modifications (mod) for electronic games were developed. I have been studying this subject since and, currently, I work with analysis and systems development.
+> ✨  I’m interested in technology since I was 7 or 8 years old, when, out of curiosity, I started programming and searching about how modifications (mod) for electronic games were developed. And also at school, where I had robotics class. Nowadays, I work with software development at the biggest drone company in Latin America.
 
 <br/>
 
 ### Curiosities:
 
+- 😄 My nickname is Jotta.
 - 🔭 I’m currently working with web development.
 - 🌱 Seeking knowledge daily
+- ⚡ Software Engineer
 
 ##
 
