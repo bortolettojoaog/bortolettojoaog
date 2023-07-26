@@ -32,7 +32,7 @@
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a href="https://g.dev/bortolettojoaog" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/GDev-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/bortolettojoaog/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
