@@ -8,7 +8,7 @@
 
 ### Curiosities:
 
-- 😄 My nickname is J.
+- 😄 My nickname is J (Jotta).
 - 🔭 I’m currently working with web development.
 - 🌱 Seeking knowledge daily
 - ⚡ Software Engineer
